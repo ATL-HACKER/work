@@ -1,0 +1,18 @@
+.container{
+    position: fixed;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background: rgb(255, 255, 255);
+    width: 450px;
+    height: 550px;
+    border-radius: 20px;
+    box-shadow: o 10px rgb(110,110,110,.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'poppins', sans-serif;
+    font-size: xxx-large;
+    font-style: italic;
+}
